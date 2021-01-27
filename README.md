@@ -1,1 +1,5 @@
 # TeslaClone
+
+react native
+expo
+
